@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rajat</h1>
-<h3 align="center">I build things at the edge of what I know — models, systems, and game worlds.</h3>
+<h3 align="center">I build things at the edge of what I know - models, systems, and game worlds.</h3>
 
 ---
 
@@ -9,7 +9,7 @@ I work across data science, systems programming, and creative tech.
 I care more about understanding things deeply than moving fast.
 
 - 🔍 Currently exploring ML, low-level C, and game dev with Godot
-- 🏆 First Prize — Youthopia Robo Soccer (ESP32 Smart Car)
+- 🏆 First Prize - Youthopia Robo Soccer (ESP32 Smart Car)
 - 🌐 Portfolio: [rb937.github.io](https://rb937.github.io)
 
 ---

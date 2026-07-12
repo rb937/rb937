@@ -44,4 +44,4 @@ I care more about understanding things deeply than moving fast.
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatbisht937/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatbisht913@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatbisht937/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatbisht913@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%2331A8FF.svg?style=flat&logo=portfolio&logoColor=white)](https://rb937.github.io/)
